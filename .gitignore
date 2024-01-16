@@ -1,0 +1,6 @@
+# Project exclude paths
+/node_modules/
+/venv/
+/venv_portable/
+/log*
+/WapsClient/__pycache__/
