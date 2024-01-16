@@ -4,7 +4,7 @@
 3. Run "Start.bat"
 4. Open http://localhost:8000/ in your browser.
 
-** After running it once, you can boot the bot by executing only the third command (Run "Start.bat") **
+After running it once, you can boot the bot by executing only the third command (Run "Start.bat")
 Enjoy your bot !!!
 
 
